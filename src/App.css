@@ -13,8 +13,9 @@
 }
 
 .footer {
+  background-color: #AACB73;
   color: #f3714d;
-  text-shadow: 4px 4px #ffd2a7;
+  text-shadow: 4px 4px #CDE990;
   font-size: 1.4rem;
   margin-top: 0;
 }
