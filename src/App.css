@@ -1,0 +1,20 @@
+.App {
+  font-family: "Kaushan Script", cursive;
+  text-align: center;
+}
+ .myButtons {
+  margin: auto 0;
+ }
+
+.title {
+  color: #f58364;
+  text-shadow: 4px 4px #ffd2a7;
+  font-size: 2.4rem;
+}
+
+.footer {
+  color: #f3714d;
+  text-shadow: 4px 4px #ffd2a7;
+  font-size: 1.4rem;
+  margin-top: 0;
+}
